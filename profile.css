@@ -1,0 +1,39 @@
+.container{
+	widows: 90%;
+	height: auto;
+	padding: 12px;
+	margin: 0 auto;
+	background-color: #A2D9CE;
+}
+
+
+.navbar-item{
+	list-style: none;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+.welcome-part{
+	text-align: center;
+	background: #008080;
+	height: auto;
+	padding: 13px;
+	margin: 0 auto 0 auto;
+	border: 1px solid black;
+}
+.profile.part{
+	background-color: #AEB6BF;
+}
+
+.Education-part{
+	border: 1px solid white;
+
+}
+h3{
+	background-color: #AEB6BF;
+}
+.block-part{
+	background-color: #A2D9CE;
+}
+.footer{
+	text-align: center;
+}
